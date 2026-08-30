@@ -1,0 +1,4 @@
+uiautomation<3,>=2.0
+
+[test]
+pytest<9,>=8

@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+aiv2lib/__init__.py
+aiv2lib/_win.py
+aiv2lib.egg-info/PKG-INFO
+aiv2lib.egg-info/SOURCES.txt
+aiv2lib.egg-info/dependency_links.txt
+aiv2lib.egg-info/requires.txt
+aiv2lib.egg-info/top_level.txt
+tests/test_aiv2lib.py
+tests/test_windows_smoke.py
